@@ -1,6 +1,6 @@
 # Cryptocurrency Purchase Platform DApp
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Build-Deploy-a-Cryptocurrency-Purchase-Platform-Next.js-14-Thirdweb-SDK-v5-Modern-Web3-Tech.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/11/Buy-Crypto-DApp.jpg)
 
 - [Final Source Code]()
 
