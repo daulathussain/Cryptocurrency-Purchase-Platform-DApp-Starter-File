@@ -6,7 +6,7 @@
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/29Zwx15sDFg?si=9wqhx4f05yGxm5V7)
 
 Build & Deploy a Cryptocurrency Purchase Platform | Next.js 14 + Thirdweb SDK v5 + Modern Web3 Tech
 
